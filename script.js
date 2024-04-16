@@ -10,11 +10,11 @@ if (contextClass) {
 }
 
 // Load all sound files
-loadSound("https://owesh74.github.io/Baburao3/WhatsApp%20Audio%202023-12-25%20at%2023.12.15_2a9752d2.mp3", 0); // First sound
-loadSound("http://127.0.0.1:5500/song/0413(2)_out_2.MP3", 1); // Second sound
-loadSound("http://127.0.0.1:5500/song/0413(2)_out_3.MP3", 2); // Third sound
-loadSound("http://127.0.0.1:5500/song/0413(2)_out_4.MP3", 3); // Fourth sound
-loadSound("http://127.0.0.1:5500/song/0413(2)_out_5.MP3", 4); // Fifth sound
+loadSound("https://owesh74.github.io/jaddoo//song/0413(2)_out_1.MP3", 0); // First sound
+loadSound("https://owesh74.github.io/jaddoo//song/0413(2)_out_2.MP3", 1); // Second sound
+loadSound("https://owesh74.github.io/jaddoo//song/0413(2)_out_3.MP3", 2); // Third sound
+loadSound("https://owesh74.github.io/jaddoo//song/0413(2)_out_4.MP3", 3); // Fourth sound
+// loadSound("https://owesh74.github.io/jaddoo//song/0413(2)_out_2.MP3", 4); // Fifth sound
 
 function loadSound(url, index) {
   var request = new XMLHttpRequest();
